@@ -1,6 +1,5 @@
 # UrbanMart
-
-UrbanMart is a full-stack e-commerce web application built with Express.js and MongoDB.
+UrbanMart is an innovative e-commerce platform that offers a wide range of products for urban dwellers. From trendy fashion items to cutting-edge gadgets, UrbanMart brings the latest trends and essentials right to your doorstep.
 
 ## Features
 
