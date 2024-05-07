@@ -1,0 +1,22 @@
+# Dependency directories
+/node_modules
+
+# Environment variables file (if using dotenv or similar)
+.env
+
+# Compiled output (if using TypeScript, Babel, etc.)
+/dist
+/out
+/build
+
+# Log files
+*.log
+
+# IDE/editor specific files
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
